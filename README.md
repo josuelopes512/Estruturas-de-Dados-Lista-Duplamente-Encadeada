@@ -1,1 +1,1 @@
-# Estruturas-de-Dados-Lista_Sequencial
+# Estruturas-de-Dados-Lista-Duplamente-Encadeada
